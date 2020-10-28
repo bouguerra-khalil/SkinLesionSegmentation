@@ -1,6 +1,7 @@
 
-<h1 style="text-align:center"> Skin Lesion Segmentation 
- </h1>
+<h1 style="text-align:center"> Skin Lesion Segmentation </h1>
+
+
 <img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/SkinLesion.png">
 
 ## Motivation 
